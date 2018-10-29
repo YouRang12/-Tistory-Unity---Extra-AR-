@@ -7,3 +7,5 @@
 -----------------------------------
 
 [Unity]01.Vuforia 사용 - 마커 등록 후 AR 구현하기 => (https://goo.gl/SJM8Et)
+
+[Unity]02.Vuforia 사용 - 여러 개의 마커 인식을 통한 드론 제어 => (https://goo.gl/WjyKjg)
